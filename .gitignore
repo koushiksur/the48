@@ -1,0 +1,6 @@
+*.pdf
+*.epub
+notes-export*.json
+reading-data*.json
+node_modules/
+.DS_Store

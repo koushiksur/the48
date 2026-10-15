@@ -1,0 +1,486 @@
+{
+ "edition": "Profile Books paperback, 2000 (Joost Elffers production), 476-page scan",
+ "pdfPageOffset": 23,
+ "laws": [
+  {
+   "id": "law-01",
+   "number": 1,
+   "title_en": "Never Outshine the Master",
+   "title_bn": null,
+   "printedPage": 1,
+   "titleCheck": "matches-OCR-contents",
+   "summary_en": "Being visibly more talented than the people above you can make them feel threatened. The law advises keeping superiors secure; read it critically and ask whether honest excellence and flattery can coexist.",
+   "summary_bn": "ঊর্ধ্বতনদের চেয়ে নিজের প্রতিভা বেশি জাহির করলে তাঁরা নিরাপত্তাহীন বোধ করতে পারেন। সূত্রটি তাঁদের স্বস্তিতে রাখার পরামর্শ দেয়; ভাবুন—সততা ও দক্ষতা কি চাটুকারিতা ছাড়াই দেখানো যায়?"
+  },
+  {
+   "id": "law-02",
+   "number": 2,
+   "title_en": "Never Put Too Much Trust in Friends, Learn How to Use Enemies",
+   "title_bn": null,
+   "printedPage": 8,
+   "titleCheck": "matches-OCR-contents",
+   "summary_en": null,
+   "summary_bn": null
+  },
+  {
+   "id": "law-03",
+   "number": 3,
+   "title_en": "Conceal Your Intentions",
+   "title_bn": null,
+   "printedPage": 16,
+   "titleCheck": "matches-OCR-contents",
+   "summary_en": "People who cannot tell what you are aiming for find it hard to resist or prepare. The law treats secrecy about goals as an advantage; consider when privacy is prudent and when it becomes deception.",
+   "summary_bn": "আপনার লক্ষ্য কী তা যাঁরা বুঝতে পারেন না, তাঁদের পক্ষে প্রস্তুতি নেওয়া কঠিন। সূত্রটি উদ্দেশ্য গোপন রাখাকে সুবিধা হিসেবে দেখে; ভাবুন—কখন গোপনীয়তা বিচক্ষণতা, আর কখন তা প্রতারণা।"
+  },
+  {
+   "id": "law-04",
+   "number": 4,
+   "title_en": "Always Say Less Than Necessary",
+   "title_bn": null,
+   "printedPage": 31,
+   "titleCheck": "matches-OCR-contents",
+   "summary_en": "Fewer words tend to make a speaker seem composed and weighty, and give away less. The law favours restraint; the counterpoint is that clarity and openness build trust in teams.",
+   "summary_bn": "কম কথা বললে বক্তাকে সংযত ও গুরুগম্ভীর মনে হয় এবং নিজের সম্পর্কে কম তথ্য প্রকাশ পায়। সূত্রটি সংযমের পক্ষে; তবে দলগত কাজে স্পষ্টতা ও খোলাখুলি আচরণও আস্থা গড়ে।"
+  },
+  {
+   "id": "law-05",
+   "number": 5,
+   "title_en": "So Much Depends on Reputation—Guard It with Your Life",
+   "title_bn": null,
+   "printedPage": 37,
+   "titleCheck": "matches-OCR-contents",
+   "summary_en": "Public image is treated as a form of capital: slow to build, quick to lose. Consider whether a reputation should rest on character or on perception.",
+   "summary_bn": "জনমানসে ভাবমূর্তিকে এক ধরনের পুঁজি ধরা হয়, যা গড়তে সময় লাগে কিন্তু হারাতে দেরি হয় না। ভাবুন—সুনাম কি চরিত্রের ওপর দাঁড়ানো উচিত, নাকি ধারণার ওপর?"
+  },
+  {
+   "id": "law-06",
+   "number": 6,
+   "title_en": "Court Attention at All Cost",
+   "title_bn": null,
+   "printedPage": 44,
+   "titleCheck": "matches-OCR-contents",
+   "summary_en": null,
+   "summary_bn": null
+  },
+  {
+   "id": "law-07",
+   "number": 7,
+   "title_en": "Get Others to Do the Work for You, but Always Take the Credit",
+   "title_bn": null,
+   "printedPage": 56,
+   "titleCheck": "matches-OCR-contents",
+   "summary_en": null,
+   "summary_bn": null
+  },
+  {
+   "id": "law-08",
+   "number": 8,
+   "title_en": "Make Other People Come to You—Use Bait if Necessary",
+   "title_bn": null,
+   "printedPage": 62,
+   "titleCheck": "matches-OCR-contents",
+   "summary_en": null,
+   "summary_bn": null
+  },
+  {
+   "id": "law-09",
+   "number": 9,
+   "title_en": "Win Through Your Actions, Never Through Argument",
+   "title_bn": null,
+   "printedPage": 69,
+   "titleCheck": "matches-OCR-contents",
+   "summary_en": "Persuading by demonstration tends to last longer than winning a debate, which often leaves resentment. A useful lens for leadership, teaching and workplace disagreements.",
+   "summary_bn": "তর্কে জেতার চেয়ে হাতেকলমে দেখিয়ে বোঝানো সাধারণত দীর্ঘস্থায়ী হয়, কারণ তর্কজয় প্রায়ই ক্ষোভ রেখে যায়। নেতৃত্ব, শিক্ষকতা ও কর্মক্ষেত্রের মতভেদ বুঝতে এটি কাজে লাগতে পারে।"
+  },
+  {
+   "id": "law-10",
+   "number": 10,
+   "title_en": "Infection: Avoid the Unhappy and Unlucky",
+   "title_bn": null,
+   "printedPage": 76,
+   "titleCheck": "matches-OCR-contents",
+   "summary_en": null,
+   "summary_bn": null
+  },
+  {
+   "id": "law-11",
+   "number": 11,
+   "title_en": "Learn to Keep People Dependent on You",
+   "title_bn": null,
+   "printedPage": 82,
+   "titleCheck": "matches-OCR-contents",
+   "summary_en": null,
+   "summary_bn": null
+  },
+  {
+   "id": "law-12",
+   "number": 12,
+   "title_en": "Use Selective Honesty and Generosity to Disarm Your Victim",
+   "title_bn": null,
+   "printedPage": 89,
+   "titleCheck": "matches-OCR-contents",
+   "summary_en": null,
+   "summary_bn": null
+  },
+  {
+   "id": "law-13",
+   "number": 13,
+   "title_en": "When Asking for Help, Appeal to People's Self-Interest, Never to Their Mercy or Gratitude",
+   "title_bn": null,
+   "printedPage": 95,
+   "titleCheck": "matches-OCR-contents",
+   "summary_en": null,
+   "summary_bn": null
+  },
+  {
+   "id": "law-14",
+   "number": 14,
+   "title_en": "Pose as a Friend, Work as a Spy",
+   "title_bn": null,
+   "printedPage": null,
+   "titleCheck": "matches-OCR-contents",
+   "summary_en": null,
+   "summary_bn": null
+  },
+  {
+   "id": "law-15",
+   "number": 15,
+   "title_en": "Crush Your Enemy Totally",
+   "title_bn": null,
+   "printedPage": 107,
+   "titleCheck": "matches-OCR-contents",
+   "summary_en": null,
+   "summary_bn": null
+  },
+  {
+   "id": "law-16",
+   "number": 16,
+   "title_en": "Use Absence to Increase Respect and Honor",
+   "title_bn": null,
+   "printedPage": 115,
+   "titleCheck": "matches-OCR-contents",
+   "summary_en": "Being less available can raise how much others value your presence, much as scarcity raises value. Weigh it against the cost of being absent when people need you.",
+   "summary_bn": "কম উপলব্ধ থাকলে আপনার উপস্থিতির মূল্য বাড়তে পারে, যেমন দুষ্প্রাপ্যতা মূল্য বাড়ায়। তবে মানুষের প্রয়োজনের সময় অনুপস্থিত থাকার ক্ষতির কথাও ভাবুন।"
+  },
+  {
+   "id": "law-17",
+   "number": 17,
+   "title_en": "Keep Others in Suspended Terror: Cultivate an Air of Unpredictability",
+   "title_bn": null,
+   "printedPage": 123,
+   "titleCheck": "matches-OCR-contents",
+   "summary_en": null,
+   "summary_bn": null
+  },
+  {
+   "id": "law-18",
+   "number": 18,
+   "title_en": "Do Not Build Fortresses to Protect Yourself—Isolation Is Dangerous",
+   "title_bn": null,
+   "printedPage": 130,
+   "titleCheck": "matches-OCR-contents",
+   "summary_en": null,
+   "summary_bn": null
+  },
+  {
+   "id": "law-19",
+   "number": 19,
+   "title_en": "Know Who You're Dealing With—Do Not Offend the Wrong Person",
+   "title_bn": null,
+   "printedPage": 137,
+   "titleCheck": "matches-OCR-contents",
+   "summary_en": null,
+   "summary_bn": null
+  },
+  {
+   "id": "law-20",
+   "number": 20,
+   "title_en": "Do Not Commit to Anyone",
+   "title_bn": null,
+   "printedPage": null,
+   "titleCheck": "matches-OCR-contents",
+   "summary_en": null,
+   "summary_bn": null
+  },
+  {
+   "id": "law-21",
+   "number": 21,
+   "title_en": "Play a Sucker to Catch a Sucker—Seem Dumber than Your Mark",
+   "title_bn": null,
+   "printedPage": 156,
+   "titleCheck": "matches-OCR-contents",
+   "summary_en": null,
+   "summary_bn": null
+  },
+  {
+   "id": "law-22",
+   "number": 22,
+   "title_en": "Use the Surrender Tactic: Transform Weakness into Power",
+   "title_bn": null,
+   "printedPage": 163,
+   "titleCheck": "matches-OCR-contents",
+   "summary_en": null,
+   "summary_bn": null
+  },
+  {
+   "id": "law-23",
+   "number": 23,
+   "title_en": "Concentrate Your Forces",
+   "title_bn": null,
+   "printedPage": 171,
+   "titleCheck": "matches-OCR-contents",
+   "summary_en": null,
+   "summary_bn": null
+  },
+  {
+   "id": "law-24",
+   "number": 24,
+   "title_en": "Play the Perfect Courtier",
+   "title_bn": null,
+   "printedPage": 178,
+   "titleCheck": "matches-OCR-contents",
+   "summary_en": null,
+   "summary_bn": null
+  },
+  {
+   "id": "law-25",
+   "number": 25,
+   "title_en": "Re-Create Yourself",
+   "title_bn": null,
+   "printedPage": null,
+   "titleCheck": "matches-OCR-contents",
+   "summary_en": null,
+   "summary_bn": null
+  },
+  {
+   "id": "law-26",
+   "number": 26,
+   "title_en": "Keep Your Hands Clean",
+   "title_bn": null,
+   "printedPage": 200,
+   "titleCheck": "matches-OCR-contents",
+   "summary_en": null,
+   "summary_bn": null
+  },
+  {
+   "id": "law-27",
+   "number": 27,
+   "title_en": "Play on People's Need to Believe to Create a Cultlike Following",
+   "title_bn": null,
+   "printedPage": null,
+   "titleCheck": "matches-OCR-contents",
+   "summary_en": null,
+   "summary_bn": null
+  },
+  {
+   "id": "law-28",
+   "number": 28,
+   "title_en": "Enter Action with Boldness",
+   "title_bn": null,
+   "printedPage": null,
+   "titleCheck": "matches-OCR-contents",
+   "summary_en": null,
+   "summary_bn": null
+  },
+  {
+   "id": "law-29",
+   "number": 29,
+   "title_en": "Plan All the Way to the End",
+   "title_bn": null,
+   "printedPage": 236,
+   "titleCheck": "matches-OCR-contents",
+   "summary_en": null,
+   "summary_bn": null
+  },
+  {
+   "id": "law-30",
+   "number": 30,
+   "title_en": "Make Your Accomplishments Seem Effortless",
+   "title_bn": null,
+   "printedPage": null,
+   "titleCheck": "matches-OCR-contents",
+   "summary_en": null,
+   "summary_bn": null
+  },
+  {
+   "id": "law-31",
+   "number": 31,
+   "title_en": "Control the Options: Get Others to Play with the Cards You Deal",
+   "title_bn": null,
+   "printedPage": null,
+   "titleCheck": "matches-OCR-contents",
+   "summary_en": null,
+   "summary_bn": null
+  },
+  {
+   "id": "law-32",
+   "number": 32,
+   "title_en": "Play to People's Fantasies",
+   "title_bn": null,
+   "printedPage": 263,
+   "titleCheck": "matches-OCR-contents",
+   "summary_en": null,
+   "summary_bn": null
+  },
+  {
+   "id": "law-33",
+   "number": 33,
+   "title_en": "Discover Each Man's Thumbscrew",
+   "title_bn": null,
+   "printedPage": null,
+   "titleCheck": "matches-OCR-contents",
+   "summary_en": null,
+   "summary_bn": null
+  },
+  {
+   "id": "law-34",
+   "number": 34,
+   "title_en": "Be Royal in Your Own Fashion: Act Like a King to Be Treated Like One",
+   "title_bn": null,
+   "printedPage": null,
+   "titleCheck": "matches-OCR-contents",
+   "summary_en": null,
+   "summary_bn": null
+  },
+  {
+   "id": "law-35",
+   "number": 35,
+   "title_en": "Master the Art of Timing",
+   "title_bn": null,
+   "printedPage": null,
+   "titleCheck": "matches-OCR-contents",
+   "summary_en": null,
+   "summary_bn": null
+  },
+  {
+   "id": "law-36",
+   "number": 36,
+   "title_en": "Disdain Things You Cannot Have: Ignoring Them Is the Best Revenge",
+   "title_bn": null,
+   "printedPage": 300,
+   "titleCheck": "matches-OCR-contents",
+   "summary_en": null,
+   "summary_bn": null
+  },
+  {
+   "id": "law-37",
+   "number": 37,
+   "title_en": "Create Compelling Spectacles",
+   "title_bn": null,
+   "printedPage": 309,
+   "titleCheck": "matches-OCR-contents",
+   "summary_en": null,
+   "summary_bn": null
+  },
+  {
+   "id": "law-38",
+   "number": 38,
+   "title_en": "Think as You Like but Behave Like Others",
+   "title_bn": null,
+   "printedPage": null,
+   "titleCheck": "matches-OCR-contents",
+   "summary_en": null,
+   "summary_bn": null
+  },
+  {
+   "id": "law-39",
+   "number": 39,
+   "title_en": "Stir Up Waters to Catch Fish",
+   "title_bn": null,
+   "printedPage": null,
+   "titleCheck": "matches-OCR-contents",
+   "summary_en": null,
+   "summary_bn": null
+  },
+  {
+   "id": "law-40",
+   "number": 40,
+   "title_en": "Despise the Free Lunch",
+   "title_bn": null,
+   "printedPage": 333,
+   "titleCheck": "matches-OCR-contents",
+   "summary_en": null,
+   "summary_bn": null
+  },
+  {
+   "id": "law-41",
+   "number": 41,
+   "title_en": "Avoid Stepping into a Great Man's Shoes",
+   "title_bn": null,
+   "printedPage": 347,
+   "titleCheck": "matches-OCR-contents",
+   "summary_en": null,
+   "summary_bn": null
+  },
+  {
+   "id": "law-42",
+   "number": 42,
+   "title_en": "Strike the Shepherd and the Sheep Will Scatter",
+   "title_bn": null,
+   "printedPage": 358,
+   "titleCheck": "matches-OCR-contents",
+   "summary_en": null,
+   "summary_bn": null
+  },
+  {
+   "id": "law-43",
+   "number": 43,
+   "title_en": "Work on the Hearts and Minds of Others",
+   "title_bn": null,
+   "printedPage": 367,
+   "titleCheck": "matches-OCR-contents",
+   "summary_en": null,
+   "summary_bn": null
+  },
+  {
+   "id": "law-44",
+   "number": 44,
+   "title_en": "Disarm and Infuriate with the Mirror Effect",
+   "title_bn": null,
+   "printedPage": null,
+   "titleCheck": "matches-OCR-contents",
+   "summary_en": null,
+   "summary_bn": null
+  },
+  {
+   "id": "law-45",
+   "number": 45,
+   "title_en": "Preach the Need for Change, but Never Reform Too Much at Once",
+   "title_bn": null,
+   "printedPage": 392,
+   "titleCheck": "matches-OCR-contents",
+   "summary_en": null,
+   "summary_bn": null
+  },
+  {
+   "id": "law-46",
+   "number": 46,
+   "title_en": "Never Appear Too Perfect",
+   "title_bn": null,
+   "printedPage": null,
+   "titleCheck": "unchecked-against-scan",
+   "summary_en": null,
+   "summary_bn": null
+  },
+  {
+   "id": "law-47",
+   "number": 47,
+   "title_en": "Do Not Go Past the Mark You Aimed For; In Victory, Learn When to Stop",
+   "title_bn": null,
+   "printedPage": null,
+   "titleCheck": "unchecked-against-scan",
+   "summary_en": null,
+   "summary_bn": null
+  },
+  {
+   "id": "law-48",
+   "number": 48,
+   "title_en": "Assume Formlessness",
+   "title_bn": null,
+   "printedPage": null,
+   "titleCheck": "unchecked-against-scan",
+   "summary_en": null,
+   "summary_bn": null
+  }
+ ]
+}
